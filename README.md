@@ -1,4 +1,5 @@
 # Real Time Facial Expression Recognition
+![blog_picture](https://user-images.githubusercontent.com/26830527/48616166-15341800-e993-11e8-9d25-1d1145a6b87d.png)
 ## Check out the blog of this case study at the following link:
 https://medium.com/@gamesleo89/real-time-facial-expression-recognition-f860dacfeb6a
 ## Description
