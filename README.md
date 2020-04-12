@@ -17,7 +17,7 @@ We have downloaded data from 4 different sources.<br>
 1. Human Images Source-1: http://www.consortium.ri.cmu.edu/ckagree/
 2. Human Images Source-2: http://app.visgraf.impa.br/database/faces/
 3. Human Images Source-3: http://www.kasrl.org/jaffe.html
-4. Animated Images Source: https://grail.cs.washington.edu/projects/deepexpr/ferg-db.html
+4. Animated Images Source: https://grail.cs.washington.edu/projects/deepexpr/ferg-2d-db.html
 ## Real-World Business Objective & Constraints
 1. Low-latency is required.
 2. Interpretability is important for still images but not in real time. For still images, probability of predicted expressions can be given.
